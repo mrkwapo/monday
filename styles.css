@@ -1,0 +1,165 @@
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+.video-container {
+    display: flex;
+
+
+}
+
+.video {
+    display: flex;
+    align-items: stretch;
+    background-image: url("em_banner_brg.jpg");
+    background-repeat: no-repeat;
+}
+
+.header-logo {
+    display: flex;
+}
+
+.menu-container {
+    display: flex;
+    color: #fff;
+    background-color: #5995DA;
+    /* Blue */
+    padding: 20px 0;
+    justify-content: space-between;
+    align-content: flex-end;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-end;
+    
+    border: 1px solid #fff;
+    /* For debugging */
+    width: 900px;
+}
+
+.innovation-container {
+    display: flex;
+}
+
+
+.innovation {
+    display: flex;
+    
+}
+
+.advice-container {
+    display: flex;
+}
+
+.advisor {
+    display: flex;
+}
+
+.enterprise {
+    display: flex;
+}
+
+
+
+.vision-container {
+    display: flex;
+}
+
+.vision {
+    display: flex;
+}
+
+.success-container {
+    display: flex;
+}
+
+.success {
+    display: flex;
+}
+
+
+.firms {
+    display: flex;
+}
+
+.lookplan-container {
+    display: flex;
+}
+
+.look {
+    display: flex;
+}
+
+.plan {
+    display: flex;
+}
+
+.growth-container {
+    display: flex;
+}
+
+.growth {
+    display: flex;
+}
+
+.growthbutton {
+    display: flex;
+}
+
+.relationships-container {
+    display: flex;
+}
+
+.relationshipsbutton {
+    display: flex;
+}
+
+.relationships {
+    display: flex;
+}
+
+.future-container {
+    display: flex;
+
+}
+
+.futurebutton {
+    display: flex;
+}
+
+.technology-container {
+    display: flex;
+}
+
+.casestudies-container {
+ display: flex;   
+}
+
+
+.casestudiesbutton {
+    display: flex;
+}
+
+.casestudies {
+    display: flex;
+}
+
+.lastsection-container {
+    display: flex;
+}
+
+.blog {
+    display: flex;
+}
+
+.resources {
+    display: flex;
+}
+
+.news {
+    display: flex;
+}
